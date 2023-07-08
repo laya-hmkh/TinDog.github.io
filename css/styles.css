@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Ubuntu&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+/*-----Title-----*/
+#title{
+    background-color: #ff4c68;
+}
+
+.container-fluid{
+    padding: 2% 15% !important;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem !important;
+    line-height: 1.5 !important;
+    color : white !important;
+    margin-top: 4.5rem !important;
+}
+
+nav{
+    font-size: 20px ;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem !important;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+
+.title-img{
+    width: 23%;
+    transform: rotate(25deg);
+    position: absolute;
+    padding-top: 5%;
+    padding-left: 2%;
+    margin-left: 3%;
+}
+
+.btn{
+    margin: 5% 3% 5% 0 ;
+}
+
+/*-----Features-----*/
+h3{
+    font-size: 600px;
+}
+
+.pricing-h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.25rem !important;
+    line-height: 1.5 !important;
+}
+
+#features{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: white;
+    position: relative;
+}
+
+.features {
+    font-family: 'Montserrat', sans-serif ;
+    font-size: 1.5rem;
+}
+
+.features-p {
+    color: #8f8f8f !important;
+    padding : 5% 8%;
+}
+
+p{
+    color: #8f8f8f !important;
+}
+
+.fa-2xl{
+    padding-bottom: 10%;
+}
+.fa-2xl:hover{
+    color: #ff4c68  !important;
+}
+
+/*-----Testimonials-----*/
+#testimonials{
+    background-color: #ef8172;
+    color: white;
+    text-align: center; 
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif  ;
+    font-size: 3rem;
+    line-height: 3.5rem !important;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.testimonial-image{
+    width: 25%;
+    border-radius: 100%;
+    padding:0% 3%;
+}
+
+/*-----Press-----*/
+#press{
+    background-color: #ef8172;
+    text-align: center;
+}
+
+.press-image{
+    width: 15%;
+    padding: 3% 0%;
+}
+
+#pricing{
+    padding: 5% 15%;
+    text-align: center;
+}
+
+.card-column{
+    padding: 3% 2%;
+}
