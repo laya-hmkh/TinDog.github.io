@@ -126,3 +126,31 @@ h2{
 .card-column{
     padding: 3% 2%;
 }
+
+#cta{
+    text-align: center;
+    padding: 5% 5%;
+    background-color: #ff4c68;
+}
+
+.cta-h3{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+#footer{
+    padding: 1% 15%;
+    background-color: white;
+    text-align: center;
+}
+
+.footer-p{
+    margin-top: 2%;
+    font-family: 'Montserrat-Thin', sans-serif;
+}
+
+.footer-icon{
+    margin: 0% 2%;
+}
