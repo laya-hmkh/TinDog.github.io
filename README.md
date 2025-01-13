@@ -1,4 +1,4 @@
-# TinDog.github.io
+# TinDog
 
 TinDog is a playful web application that allows users to meet and connect with dogs nearby. Developed during a frontend development course, this project demonstrates the integration of HTML, CSS, and Bootstrap to create a visually appealing and responsive user interface. Key sections include a navigational bar, feature highlights, user testimonials, pricing options, and a call-to-action for app downloads.
 
